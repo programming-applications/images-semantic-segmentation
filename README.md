@@ -14,3 +14,8 @@
 - [Overview](#overview)
 - [Integrated-development-environment](#integrated-development-environment)
 - [Configuration](#configuration)
+- [Credentials](#credentials)
+
+<p align="center">
+  <img src="Advanced Computer Vision TensorFlow E9VDAB99EWHV.jpg" alt="Machine Learning Logo" width="825">
+</p>
